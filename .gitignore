@@ -1,0 +1,14 @@
+# 忽略所有压缩文件
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+*.gz
+
+# 如果只想忽略特定名称的压缩文件（例如 backup.zip），可以直接写文件名：
+# backup.zip
+
+# 如果想忽略某个目录下的压缩文件（例如 downloads 文件夹）：
+# downloads/*.zip
